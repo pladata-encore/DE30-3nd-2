@@ -1,4 +1,7 @@
 package com.springboot.blog.data.repository;
 
-public interface ProfileRepository {
+import com.springboot.blog.data.entity.Profile;
+import org.springframework.data.jpa.repository.JpaRepository;
+
+public interface ProfileRepository extends JpaRepository<Profile, Long> {
 }
