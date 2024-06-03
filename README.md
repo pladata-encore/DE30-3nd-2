@@ -9,6 +9,11 @@
 
 진행 기간 : 2024. 05.31 - 06.03
 
+ERD
+![Blog_potfolio (1)](https://github.com/pladata-encore/DE30-3nd-2/assets/163947687/3c18e39f-6db0-45ae-9f30-e31d55fdbae0)
+
+
+
 사용한 툴 : ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 , <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white">
 ,<img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=Thymeleaf&logoColor=white">
