@@ -18,6 +18,7 @@
 
 <img src="https://github.com/pladata-encore/DE30-3nd-2/assets/163947687/af63b5af-7730-4ddf-ac31-3c1b90ce45bb.png" width="400" height="300"/>
 
+<img src="https://github.com/pladata-encore/DE30-3nd-2/assets/163947687/d173f8ef-4639-4bd0-98e0-7bde814485bf.png" width="400" height="300"/>
 <img src="https://github.com/pladata-encore/DE30-3nd-2/assets/163947687/9309abb5-1610-4e40-b3b7-58821bf3cb5d.png" width="400" height="300"/>
 <img src="https://github.com/pladata-encore/DE30-3nd-2/assets/163947687/5247a062-fe51-4572-9ce9-9f691bef772c.png" width="400" height="300"/>
 <img src="https://github.com/pladata-encore/DE30-3nd-2/assets/163947687/e06f0dcb-f221-415e-922c-ade891888452.png" width="400" height="300"/>
